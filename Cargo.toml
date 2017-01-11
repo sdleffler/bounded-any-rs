@@ -1,0 +1,6 @@
+[package]
+name = "bounded-any"
+version = "0.1.0"
+authors = ["Sean Leffler <sean@errno.com>"]
+
+[dependencies]
